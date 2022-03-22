@@ -6,7 +6,7 @@ services:
     volumes:
       - ./:/House-Price-Prediction
     
-  
+
   nginx:
     build: ./nginx
     ports:
