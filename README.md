@@ -9,4 +9,4 @@ Step 1:
 Step 2:
 RUN this command:
 
-python3 march5.py
+python3 march5.py &
