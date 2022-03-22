@@ -1,0 +1,9 @@
+version: '3'
+
+services: 
+  python-service:
+    build: ./
+    volumes:
+      - ./:/home/
+    ports:
+      - 3000:4000

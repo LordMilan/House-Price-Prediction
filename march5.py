@@ -12,7 +12,7 @@ import pandas as pd
 # In[2]:
 
 
-housing = pd.read_csv("data.csv")
+housing = pd.read_csv("/House-Price-Prediction/data.csv")
 
 
 # In[3]:
