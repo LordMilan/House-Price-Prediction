@@ -1,5 +1,5 @@
 # House-Price-Prediction
-Project for college
+
 
 HOW TO RUN (Without docker):
 
