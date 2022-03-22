@@ -13,5 +13,7 @@ python3 march5.py &
 
 
 HOW TO RUN (With docker-compose):
+
 run: docker-compose up
+
 Open:localhost:3000
