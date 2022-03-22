@@ -13,13 +13,14 @@ RUN this command:
 
 python3 march5.py
 
-Step 4:
+Step 3:
 
 Open: localhost:4000
 
 
 
 #HOW TO RUN (With docker-compose):
+
 Step 1:
 
 run: docker-compose up
