@@ -1,7 +1,7 @@
 # House-Price-Prediction
 
 
-H#OW TO RUN (Without docker):
+HOW TO RUN (Without docker):
 
 Step 1:
 
