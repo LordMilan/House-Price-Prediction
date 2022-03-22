@@ -14,7 +14,7 @@ services:
     depends_on:
   
       - python-service
-    command: nginx -g 'daemon off;';
+    command: nginx -g 'daemon off;'
     
     
 
