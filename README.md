@@ -4,7 +4,7 @@
 HOW TO RUN (Without docker):
 
 Step 1:
- Install these dependencies: sklearn, panda, numpy, gradio, matplotlib
+ Install these dependencies using PIP: sklearn, pandas, numpy, gradio, matplotlib
 
 
 
