@@ -6,6 +6,9 @@ HOW TO RUN (Without docker):
 Step 1:
  Install these dependencies: sklearn, panda, numpy, gradio, matplotlib
 
+
+
+
 Step 2:
 RUN this command:
 
