@@ -4,6 +4,6 @@ services:
   python-service:
     build: ./
     volumes:
-      - ./:/home/
+      - ./:/House-Price-Prediction
     ports:
       - 3000:4000
