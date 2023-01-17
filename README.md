@@ -19,11 +19,11 @@ Open: localhost:4000
 
 
 
-#HOW TO RUN (With docker-compose):
+##HOW TO RUN (With docker-compose):##
 
 Step 1:
 
-run: docker-compose up
+run: docker-compose up --build -d
 
 Step 2:
 
