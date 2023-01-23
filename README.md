@@ -18,7 +18,9 @@ Step 3:
 Open: localhost:4000
 
 
-####
+########
+########
+########
 ##HOW TO RUN (With docker-compose):##
 
 Step 1:
